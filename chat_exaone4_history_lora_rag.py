@@ -203,7 +203,7 @@ def main():
                 max_new_tokens=MAX_NEW_TOKENS,
                 do_sample=True,
                 temperature=0.8,
-                top_p=0.95,
+                top_p=0.4,
                 eos_token_id=tokenizer.eos_token_id,
             )
 
