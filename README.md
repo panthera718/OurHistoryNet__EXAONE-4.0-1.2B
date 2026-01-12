@@ -93,7 +93,7 @@ python chat_exaone4_history_lora_rag.py
 ```
 
 * 문서 로드: `nh_raw.jsonl` 
-* 생성 파라미터(예): `max_new_tokens=2048, top_p=0.4, temperature=0.8` 
+* 생성 파라미터(예): `max_new_tokens=2048, top_p=0.6, temperature=0.9` 
 * 종료: `exit` 또는 `quit` 입력 
 
 ---
